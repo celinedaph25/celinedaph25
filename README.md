@@ -98,7 +98,7 @@ Veterinary Medicine → Data → Technology → Insights → Better Decisions
 ## 📂 Featured Projects
 #🐾 Veterinary Data Analytics
 
-Coming soon
+
 
 A data analysis project exploring veterinary or animal-health datasets using Python, Pandas, and visualization tools.
 
