@@ -1,18 +1,14 @@
-# 📚 Book Inventory Management
-## A simple book inventory management system for adding, updating, searching, and tracking books in a library or bookstore.
+# 🐧 Penguin Beak & Flipper Comparison
+## A simple data analysis project comparing beak and flipper sizes across three different penguin species.
 
 ### Features
 
-➕ Add new books
+🐧 Compare 3 penguin species
 
-✏️ Update book information
+📏 Analyze beak length and depth
 
-🗑️ Delete books
+🏊 Compare flipper length
 
-🔍 Search and filter inventory
+📊 Calculate average measurements
 
-📦 Track available stock
-
-🏷️ Manage ISBN, author, genre, and price
-
-📊 View inventory details
+📈 Visualize differences between species
