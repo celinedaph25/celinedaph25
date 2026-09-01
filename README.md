@@ -98,7 +98,7 @@ Veterinary Medicine → Data → Technology → Insights → Better Decisions
 ## 📂 Featured Projects
 #🐾 Veterinary Data Analytics
 
-celinedaph25/celinedaph25/Penguins
+[Link Text] celinedaph25/celinedaph25/Penguins
 
 A data analysis project exploring veterinary or animal-health datasets using Python, Pandas, and visualization tools.
 
