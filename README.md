@@ -98,23 +98,23 @@ Veterinary Medicine → Data → Technology → Insights → Better Decisions
 ## 📂 Featured Projects
 #🐾 Veterinary Data Analytics
 
-[Penguin Sizes](Penguins)
+[Penguin Sizes](Penguins/README.md)
 
 A data analysis project exploring veterinary or animal-health datasets using Python, Pandas, and visualization tools.
 
 # 📈 Data Visualization Dashboard
 
-[Automobile inventory](Automobiles)
+[Automobile inventory](Automobiles/README.md)
 
 An interactive Tableau project demonstrating how data can be transformed into useful insights and visual dashboards.
 
 # 🗄️ SQL Database Project
 
-[Library](Database)
+[Library](Database/README.md)
 
-[Invest Vs Bond](Calculator&Manager/finance_calculators.py)
+[Invest Vs Bond](Calculator&Manager/Invest/README.md)
 
-[User Task Manager](Calculator&Manager/task_manager(3).py)
+[User Task Manager](Calculator&Manager/UserTasks/README.md)
 
 A relational database project using SQL/MySQL to demonstrate database design, querying, and analysis.
 
