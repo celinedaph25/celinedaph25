@@ -98,19 +98,20 @@ Veterinary Medicine → Data → Technology → Insights → Better Decisions
 ## 📂 Featured Projects
 #🐾 Veterinary Data Analytics
 
-
+celinedaph25/celinedaph25/Penguins
 
 A data analysis project exploring veterinary or animal-health datasets using Python, Pandas, and visualization tools.
 
 # 📈 Data Visualization Dashboard
 
-Coming soon
+celinedaph25/celinedaph25/Automobiles
 
 An interactive Tableau project demonstrating how data can be transformed into useful insights and visual dashboards.
 
 # 🗄️ SQL Database Project
 
-Coming soon
+celinedaph25/celinedaph25/Database
+celinedaph25/celinedaph25/Calculator and Manager
 
 A relational database project using SQL/MySQL to demonstrate database design, querying, and analysis.
 
