@@ -111,7 +111,7 @@ An interactive Tableau project demonstrating how data can be transformed into us
 # 🗄️ SQL Database Project
 
 celinedaph25/celinedaph25/Database
-celinedaph25/celinedaph25/Calculator and Manager
+celinedaph25/celinedaph25/Calculator&Manager
 
 A relational database project using SQL/MySQL to demonstrate database design, querying, and analysis.
 
