@@ -1,7 +1,7 @@
-#📚 Book Inventory Management
-##A simple book inventory management system for adding, updating, searching, and tracking books in a library or bookstore.
+# 📚 Book Inventory Management
+## A simple book inventory management system for adding, updating, searching, and tracking books in a library or bookstore.
 
-###Features
+### Features
 
 ➕ Add new books
 
